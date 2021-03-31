@@ -1,0 +1,34 @@
+﻿The MIT License (MIT)
+
+Copyright (c) 2021 Simon Tushev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+* * *
+
+This code also uses portions from https://github.com/riverar/sample-win32-acrylicblur Copyright (c) 2018 Rafael Rivera,
+available also under MIT License.
+
+This code also uses portions from https://stackoverflow.com/a/41676416/ by Ralf [ https://stackoverflow.com/users/6672647/ralf ] 
+available under CC BY-SA 3.0 license ( https://creativecommons.org/licenses/by-sa/3.0/ )
+
+App icon from https://www.iconfinder.com/icons/1493290/paste_board_clipboard_task_icon ,
+available as 'Free icon / Free for commercial use' by iconfinder.com
+
+Uses https://github.com/Fody/PropertyChanged and https://github.com/Fody/Fody libraries, available for free under MIT License.
