@@ -2,6 +2,7 @@
 [![MIT license](https://img.shields.io/github/license/tushev/cliptool)](https://github.com/tushev/cliptool/blob/master/LICENSE) 
 ![Language: C#](https://img.shields.io/badge/lang-C%23-blueviolet)
 ![OS: Windows 1803+](https://img.shields.io/badge/OS-Windows%2010%201803%2B%20-blue)
+                                                                        [![CodeFactor](https://www.codefactor.io/repository/github/tushev/cliptool/badge)](https://www.codefactor.io/repository/github/tushev/cliptool)[¹](#-license-mit)
 
 A handy tool that displays the contents of your clipboard. Simple and straightforward.
 
@@ -11,7 +12,7 @@ A handy tool that displays the contents of your clipboard. Simple and straightfo
 Always on top. Remembers its position.<br>Allows to clear the clipboard with one click. No more accidentally pasted private data - now you always see what's in your clipboard.
 
 ## ✔ Usage
-* Download or compile `ClipboardMonitor.exe`
+* [Download](https://github.com/tushev/cliptool/releases) or compile `ClipboardMonitor.exe`
 * Create shortcut in `Startup Apps` if desired
 * Run it & drag to the desired position
 
@@ -44,3 +45,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+<details>
+  <summary>📝 Codestyle notes</summary>
+
+<br>
+  
+[![CodeFactor](https://www.codefactor.io/repository/github/tushev/cliptool/badge)](https://www.codefactor.io/repository/github/tushev/cliptool)
+(`¹`) <sub>Please note that _blank-line related rules_ such as `The code must not contain multiple blank lines in a row.`, `A closing curly bracket must not be preceded by a blank line.`,  `An opening curly bracket must not be followed by a blank line` etc **are disabled** in CodeFactor.</sub>
+</details>
