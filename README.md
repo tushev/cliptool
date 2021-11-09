@@ -18,6 +18,13 @@ Always on top. Remembers its position.<br>Allows to clear the clipboard with one
 
 ⚠ Tested on Windows 10 20H2. May not work on Windows 10 Fall Creators Update (1709) and earlier (not tested).
 
+## 🔐 Privacy
+
+This little tool respects your privacy. Your clipboard contents are processed *on your local machine only* and are not logged, even locally.
+All processing of received clipboard data happens in [src/ClipState.cs](src/ClipState.cs).
+
+It is always recommended to download the source code, check it and compile the app yourself.
+
 ## 🖥 Screenshots
 
 ![empty clipboard](/docs/bar-empty.png?raw=true)
