@@ -51,7 +51,7 @@ namespace ClipboardMonitor
             this.Top = Properties.Settings.Default.Top;
             this.Left = Properties.Settings.Default.Left;
 
-            this.MouseLeftButtonDown += (s, e) => { this.DragMove(); };
+            this.MouseLeftButtonDown += (s, e) => { if (!Properties.Settings.Default.LockWindowPosition) this.DragMove(); };
             this.ClipboardUpdate += (s, e) => { ClipState.Update(); };
 
         }
